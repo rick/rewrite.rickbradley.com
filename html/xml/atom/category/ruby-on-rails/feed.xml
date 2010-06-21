@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <title>Following the rewrite: Category ruby on rails</title>
+  <subtitle type="html">A journey on Rails</subtitle>
+  <id>tag:rewrite.rickbradley.com,2005:Typo</id>
+  <generator uri="http://www.typosphere.org" version="4.0">Typo</generator>
+  <link href="http://rewrite.rickbradley.com/xml/atom/category/ruby-on-rails/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="http://rewrite.rickbradley.com/articles/category/ruby-on-rails" rel="alternate" type="text/html"/>
+  <updated>2006-08-13T18:19:50-05:00</updated>
+  <entry>
+    <author>
+      <name>rick</name>
+    </author>
+    <id>urn:uuid:390ceba0-d8ba-4965-b64d-74c5e3bfed41</id>
+    <published>2005-11-16T10:32:00-06:00</published>
+    <updated>2006-08-13T18:19:50-05:00</updated>
+    <title type="html">Evaluation: moving from Java to Ruby on Rails</title>
+    <link href="http://rewrite.rickbradley.com/articles/2005/11/16/evaluation-moving-from-java-to-ruby-on-rails" rel="alternate" type="text/html"/>
+    <category term="java" scheme="http://rewrite.rickbradley.com/articles/category/java" label="java"/>
+    <category term="ruby-on-rails" scheme="http://rewrite.rickbradley.com/articles/category/ruby-on-rails" label="ruby on rails"/>
+    <category term="java" scheme="http://rewrite.rickbradley.com/articles/tag/java"/>
+    <category term="ruby" scheme="http://rewrite.rickbradley.com/articles/tag/ruby"/>
+    <category term="rails" scheme="http://rewrite.rickbradley.com/articles/tag/rails"/>
+    <category term="switch" scheme="http://rewrite.rickbradley.com/articles/tag/switch"/>
+    <category term="rick" scheme="http://rewrite.rickbradley.com/articles/tag/rick"/>
+    <summary type="html">&lt;p&gt;In September (or so) we went through the process of trying to decide whether we wanted to keep plowing through the JBoss Java stack we were building with or to pursue an alternate technology.  We did some test prototyping of part of our first component (of 6) in Ruby on Rails and then a test re-implementation of the full component in Ruby on Rails.&lt;/p&gt;
+
+
+	&lt;p&gt;The productivity increase (and code footprint decrease) was basically staggering.  We undertook a full analysis of the consequences of shifting our development from our Java stack to a Ruby on Rails platform.  Ultimately we decided to shift from Java to Ruby on Rails.&lt;/p&gt;
+
+
+	&lt;p&gt;The summary document of the issues (edited to protect the guilty :-) can be found on this site at &lt;a href="http://rewrite.rickbradley.com/pages/moving_to_rails"&gt;Evaluation: moving from Java to Ruby on Rails for the CenterNet rewrite.&lt;/a&gt;&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;In September (or so) we went through the process of trying to decide whether we wanted to keep plowing through the JBoss Java stack we were building with or to pursue an alternate technology.  We did some test prototyping of part of our first component (of 6) in Ruby on Rails and then a test re-implementation of the full component in Ruby on Rails.&lt;/p&gt;
+
+
+	&lt;p&gt;The productivity increase (and code footprint decrease) was basically staggering.  We undertook a full analysis of the consequences of shifting our development from our Java stack to a Ruby on Rails platform.  Ultimately we decided to shift from Java to Ruby on Rails.&lt;/p&gt;
+
+
+	&lt;p&gt;The summary document of the issues (edited to protect the guilty :-) can be found on this site at &lt;a href="http://rewrite.rickbradley.com/pages/moving_to_rails"&gt;Evaluation: moving from Java to Ruby on Rails for the CenterNet rewrite.&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="/stylesheets/rss.css"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Following the rewrite</title>
+    <link>http://rewrite.rickbradley.com/</link>
+    <language>en-us</language>
+    <ttl>40</ttl>
+    <description>A journey on Rails</description>
+    <item>
+      <title>COSMOS documentation</title>
+      <description>&lt;p&gt;For those of you who are fans of Martin Fowler&amp;#8217;s &lt;a href="http://www.martinfowler.com/books.html#ap"&gt;&lt;em&gt;Analysis Patterns&lt;/em&gt;&lt;/a&gt; tome of wisdom, and who are curious about the &lt;span class="caps"&gt;COSMOS&lt;/span&gt; clinical process model project that inspired much of that book, you may be interested in reading the documents linked below.&lt;/p&gt;
+
+
+	&lt;p&gt;When Charles and I went to RailsConf this year to speak about the success we&amp;#8217;ve been having building a comprehensive research-friendly health record, we were approached by Adam Cavan from the audience who was interested in our project.  He asked how much of the &lt;span class="caps"&gt;COSMOS&lt;/span&gt; documentation we&amp;#8217;d read before embarking upon our project.  We were sad to say that we&amp;#8217;d never been able to actually acquire a copy of the documents, as no one seemed to have kept them around, nor were they to be found online any more.&lt;/p&gt;
+
+
+	&lt;p&gt;&amp;#8220;Oh,&amp;#8221; said Adam, &amp;#8220;I&amp;#8217;ve got a copy&amp;#8212;would you like to see them?&amp;#8221;  Would we ever.  And he was as good as his word.  Thanks to his kindness we&amp;#8217;re also making those documents, with all their amazing insights, available here. By the way, you can reach Adam here: acavan (at) suika (dot) com.&lt;/p&gt;
+
+
+	&lt;p&gt;Note we don&amp;#8217;t pretend to own these documents, but given that they were at one time available on the web we hope our posting will be looked upon kindly as a service to the software and medical care communities.&lt;/p&gt;
+
+
+	&lt;p&gt;Without further verbage, here are .doc and .pdf versions of the documents we received:&lt;/p&gt;
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;&lt;span class="caps"&gt;DOC&lt;/span&gt;&lt;/th&gt;&lt;th&gt;&lt;span class="caps"&gt;PDF&lt;/span&gt;&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;a href="/files/ccpm2pt1_clean.doc"&gt;The Clinical View of the Common Basic Specification&lt;/a&gt; (CCPM2 Part 1 &amp;#8211; &amp;#8220;Clean&amp;#8221;)&lt;/td&gt;
+    &lt;td&gt;&lt;a href="/files/ccpm2pt1_clean.pdf"&gt;The Clinical View of the Common Basic Specification&lt;/a&gt; (CCPM2 Part 1 &amp;#8211; &amp;#8220;Clean&amp;#8221;)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;a href="/files/ccpm2pt1.doc"&gt;The Clinical View of the Common Basic Specification&lt;/a&gt; (CCPM2 Part 1)&lt;/td&gt;
+    &lt;td&gt;&lt;a href="/files/ccpm2pt1.pdf"&gt;The Clinical View of the Common Basic Specification&lt;/a&gt; (CCPM2 Part 1)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;a href="/files/ccpm2pt2_clean.doc"&gt;The Activity Diagram&lt;/a&gt; (CCPM2 Part 2 &amp;#8211; &amp;#8220;Clean&amp;#8221;)&lt;/td&gt;
+    &lt;td&gt;&lt;a href="/files/ccpm2pt2_clean.pdf"&gt;The Activity Diagram&lt;/a&gt; (CCPM2 Part 2 &amp;#8211; &amp;#8220;Clean&amp;#8221;)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;a href="/files/ccpm2pt2_clean.doc"&gt;The Activity Diagram&lt;/a&gt; (CCPM2 Part 2)&lt;/td&gt;
+    &lt;td&gt;&lt;a href="/files/ccpm2pt2_clean.pdf"&gt;The Activity Diagram&lt;/a&gt; (CCPM2 Part 2)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;a href="/files/ccpm2pt3_clean.doc"&gt;Glossary of Concept Names&lt;/a&gt; (CCPM2 Part 3 &amp;#8211; &amp;#8220;Clean&amp;#8221;)&lt;/td&gt;
+    &lt;td&gt;&lt;a href="/files/ccpm2pt3_clean.pdf"&gt;Glossary of Concept Names&lt;/a&gt; (CCPM2 Part 3 &amp;#8211; &amp;#8220;Clean&amp;#8221;)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;a href="/files/ccpm2pt3_clean.doc"&gt;Glossary of Concept Names&lt;/a&gt; (CCPM2 Part 3)&lt;/td&gt;
+    &lt;td&gt;&lt;a href="/files/ccpm2pt3_clean.pdf"&gt;Glossary of Concept Names&lt;/a&gt; (CCPM2 Part 3)&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+	&lt;p&gt;&lt;em&gt;&lt;span class="caps"&gt;UPDATE&lt;/span&gt;&lt;/em&gt;:  Added better versions of the &amp;#8220;clean&amp;#8221; PDFs&amp;#8212;also added attribution to our previously pseudo-anonymous friend who found these documents.  Tahnks Adam!&lt;/p&gt;</description>
+      <pubDate>Thu, 06 Jul 2006 13:43:00 -0500</pubDate>
+      <guid isPermaLink="false">urn:uuid:57e23ca6-9ad6-4b8c-8ea8-737700c08298</guid>
+      <author>rick</author>
+      <link>http://rewrite.rickbradley.com/articles/2006/07/06/cosmos-documentation</link>
+      <category>cosmos</category>
+    </item>
+    <item>
+      <title>Evaluation: moving from Java to Ruby on Rails</title>
+      <description>&lt;p&gt;In September (or so) we went through the process of trying to decide whether we wanted to keep plowing through the JBoss Java stack we were building with or to pursue an alternate technology.  We did some test prototyping of part of our first component (of 6) in Ruby on Rails and then a test re-implementation of the full component in Ruby on Rails.&lt;/p&gt;
+
+
+	&lt;p&gt;The productivity increase (and code footprint decrease) was basically staggering.  We undertook a full analysis of the consequences of shifting our development from our Java stack to a Ruby on Rails platform.  Ultimately we decided to shift from Java to Ruby on Rails.&lt;/p&gt;
+
+
+	&lt;p&gt;The summary document of the issues (edited to protect the guilty :-) can be found on this site at &lt;a href="http://rewrite.rickbradley.com/pages/moving_to_rails"&gt;Evaluation: moving from Java to Ruby on Rails for the CenterNet rewrite.&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Nov 2005 10:32:00 -0600</pubDate>
+      <guid isPermaLink="false">urn:uuid:390ceba0-d8ba-4965-b64d-74c5e3bfed41</guid>
+      <author>rick</author>
+      <link>http://rewrite.rickbradley.com/articles/2005/11/16/evaluation-moving-from-java-to-ruby-on-rails</link>
+      <category>java</category>
+      <category>ruby on rails</category>
+      <category>java</category>
+      <category>ruby</category>
+      <category>rails</category>
+      <category>switch</category>
+      <category>rick</category>
+    </item>
+  </channel>
+</rss>

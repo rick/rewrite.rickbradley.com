@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <title>Following the rewrite: Evaluation: moving from Java to Ruby on Rails</title>
+  <subtitle type="html">A journey on Rails</subtitle>
+  <id>tag:rewrite.rickbradley.com,2005:Typo</id>
+  <generator uri="http://www.typosphere.org" version="4.0">Typo</generator>
+  <link href="http://rewrite.rickbradley.com/xml/atom/article/2/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="http://rewrite.rickbradley.com/articles/2005/11/16/evaluation-moving-from-java-to-ruby-on-rails" rel="alternate" type="text/html"/>
+  <updated>2006-08-13T18:19:50-05:00</updated>
+  <entry>
+    <author>
+      <name>rick</name>
+    </author>
+    <id>urn:uuid:390ceba0-d8ba-4965-b64d-74c5e3bfed41</id>
+    <published>2005-11-16T10:32:00-06:00</published>
+    <updated>2006-08-13T18:19:50-05:00</updated>
+    <title type="html">Evaluation: moving from Java to Ruby on Rails</title>
+    <link href="http://rewrite.rickbradley.com/articles/2005/11/16/evaluation-moving-from-java-to-ruby-on-rails" rel="alternate" type="text/html"/>
+    <category term="java" scheme="http://rewrite.rickbradley.com/articles/category/java" label="java"/>
+    <category term="ruby-on-rails" scheme="http://rewrite.rickbradley.com/articles/category/ruby-on-rails" label="ruby on rails"/>
+    <category term="java" scheme="http://rewrite.rickbradley.com/articles/tag/java"/>
+    <category term="ruby" scheme="http://rewrite.rickbradley.com/articles/tag/ruby"/>
+    <category term="rails" scheme="http://rewrite.rickbradley.com/articles/tag/rails"/>
+    <category term="switch" scheme="http://rewrite.rickbradley.com/articles/tag/switch"/>
+    <category term="rick" scheme="http://rewrite.rickbradley.com/articles/tag/rick"/>
+    <summary type="html">&lt;p&gt;In September (or so) we went through the process of trying to decide whether we wanted to keep plowing through the JBoss Java stack we were building with or to pursue an alternate technology.  We did some test prototyping of part of our first component (of 6) in Ruby on Rails and then a test re-implementation of the full component in Ruby on Rails.&lt;/p&gt;
+
+
+	&lt;p&gt;The productivity increase (and code footprint decrease) was basically staggering.  We undertook a full analysis of the consequences of shifting our development from our Java stack to a Ruby on Rails platform.  Ultimately we decided to shift from Java to Ruby on Rails.&lt;/p&gt;
+
+
+	&lt;p&gt;The summary document of the issues (edited to protect the guilty :-) can be found on this site at &lt;a href="http://rewrite.rickbradley.com/pages/moving_to_rails"&gt;Evaluation: moving from Java to Ruby on Rails for the CenterNet rewrite.&lt;/a&gt;&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;In September (or so) we went through the process of trying to decide whether we wanted to keep plowing through the JBoss Java stack we were building with or to pursue an alternate technology.  We did some test prototyping of part of our first component (of 6) in Ruby on Rails and then a test re-implementation of the full component in Ruby on Rails.&lt;/p&gt;
+
+
+	&lt;p&gt;The productivity increase (and code footprint decrease) was basically staggering.  We undertook a full analysis of the consequences of shifting our development from our Java stack to a Ruby on Rails platform.  Ultimately we decided to shift from Java to Ruby on Rails.&lt;/p&gt;
+
+
+	&lt;p&gt;The summary document of the issues (edited to protect the guilty :-) can be found on this site at &lt;a href="http://rewrite.rickbradley.com/pages/moving_to_rails"&gt;Evaluation: moving from Java to Ruby on Rails for the CenterNet rewrite.&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <author>
+      <name>Ben Roberts</name>
+    </author>
+    <id>urn:uuid:9296ee00-f2ec-407f-b5cf-ec1f90268a49</id>
+    <published>2005-12-18T11:18:00-06:00</published>
+    <updated>2006-08-13T18:19:51-05:00</updated>
+    <title type="html">Comment on Evaluation: moving from Java to Ruby on Rails by Ben Roberts</title>
+    <link href="http://rewrite.rickbradley.com/articles/2005/11/16/evaluation-moving-from-java-to-ruby-on-rails#comment-30" rel="alternate" type="text/html"/>
+    <content type="html">&lt;p&gt;II read through most of your discourse on Java vs. Ruby (on Rails) and appreciate most everything you&amp;#8217;ve written.&lt;/p&gt;
+
+
+	&lt;p&gt;Through all of it, it did not find any discussion of Web standard compliance.&lt;/p&gt;
+
+
+	&lt;p&gt;I was wondering if you had given any thought to Web standards compliance (i.e. &lt;span class="caps"&gt;HTML 4&lt;/span&gt;.01, &lt;span class="caps"&gt;XHTML 1&lt;/span&gt;.0, &lt;span class="caps"&gt;CSS 1&lt;/span&gt;.0, &lt;span class="caps"&gt;CSS 2&lt;/span&gt;.0, &lt;span class="caps"&gt;WCAG&lt;/span&gt;/S.508, etc.) in regards to the use of Ruby on Rails and especially &lt;span class="caps"&gt;AJAX&lt;/span&gt;.&lt;/p&gt;
+
+
+	&lt;p&gt;Your comments and feedback are appreciated.&lt;/p&gt;
+
+
+	&lt;p&gt;Flirting with Rails,&lt;/p&gt;
+
+
+	&lt;p&gt;Ben Roberts
+broberts80@gmail.com&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <author>
+      <name>Josh Carter</name>
+    </author>
+    <id>urn:uuid:80efbf24-1def-447e-82ec-3213f515c867</id>
+    <published>2005-11-28T15:24:02-06:00</published>
+    <updated>2006-08-13T18:19:51-05:00</updated>
+    <title type="html">Comment on Evaluation: moving from Java to Ruby on Rails by Josh Carter</title>
+    <link href="http://rewrite.rickbradley.com/articles/2005/11/16/evaluation-moving-from-java-to-ruby-on-rails#comment-14" rel="alternate" type="text/html"/>
+    <content type="html">&lt;p&gt;Rick,&lt;/p&gt;
+
+
+	&lt;p&gt;Thanks for the great article. I come to RoR from building web apps in Perl and C++, the latter on embedded systems. I&amp;#8217;ve also built some Java apps, but for the most part, I&amp;#8217;ve never found Java (and its many frameworks) to be the right match for any project I&amp;#8217;ve worked on. It&amp;#8217;s really an impressive language and I appreciate its purpose and vision, but the cost/benefit just hasn&amp;#8217;t worked out for me.&lt;/p&gt;
+
+
+	&lt;p&gt;These days, there are so many Java frameworks involved with building a &amp;#8220;real&amp;#8221; Java web application that it&amp;#8217;s incredibly daunting to someone from the outside. I mean, I&amp;#8217;ve been building web apps for years, so what&amp;#8217;s the deal that I now need to learn a half dozen new frameworks? But for pros in the Java space, that&amp;#8217;s apparently what you do. I can&amp;#8217;t help believe that a lot of that knowledge is throw-away; in five years everyone will be using other frameworks. (To Raccoon&amp;#8217;s point, I&amp;#8217;d say this article&amp;#8217;s comparison is Ruby on Rails vs. Java and [insert flavor of the day Java framework here].)&lt;/p&gt;
+
+
+	&lt;p&gt;But RoR is just a piece of cake. I&amp;#8217;m familiar with &lt;span class="caps"&gt;MVC&lt;/span&gt;; most professional developers are. Mapping from that general concept into Rails code is incredibly straightforward. By the time you&amp;#8217;ve worked through the Depot application in the rails book, you know enough to start building some real, useful apps. If you&amp;#8217;re into agile development and want to write code test-first, it&amp;#8217;s all right there. Good point on the developer tools, too: you just need an editor and command line. Almost zero learning curve.&lt;/p&gt;
+
+
+	&lt;p&gt;As such, I&amp;#8217;m in complete agreement on the point about hiring developers. The good ones will learn whatever they need to be effective. We build products, we don&amp;#8217;t just &amp;#8220;write Java code.&amp;#8221; I heard some very reputable (and not generally excitable) people talking about RoR and decided I needed to check it out. I did, it delivers, so now I&amp;#8217;m using it on real projects.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <author>
+      <name>Rick Bradley</name>
+    </author>
+    <id>urn:uuid:1d33bdb0-b95d-41c6-a3bb-ea43293f01da</id>
+    <published>2005-11-24T12:58:38-06:00</published>
+    <updated>2006-08-13T18:19:50-05:00</updated>
+    <title type="html">Comment on Evaluation: moving from Java to Ruby on Rails by Rick Bradley</title>
+    <link href="http://rewrite.rickbradley.com/articles/2005/11/16/evaluation-moving-from-java-to-ruby-on-rails#comment-13" rel="alternate" type="text/html"/>
+    <content type="html">&lt;p&gt;Dan, 
+I&amp;#8217;ll answer you in two parts&amp;#8230;&lt;/p&gt;
+
+
+	&lt;p&gt;First, the piece should probably come across somewhat how you described it, due to its function and history.  We were running aground with Java/JBoss and started looking at other languages and platforms.  We (mostly me) did survey work to see what the current trends are in web application development (we knew, due to the distributed nature of many of our sites, including a presence at a number of schools, that we would be required to run a web app as opposed to running a remote app under Terminal Services (etc.)).  We narrowed the field down to a tree of alternatives (many of which were in the Java subtree) and ultimately ended up with a Java platform very similar to what we were working on, Ruby on Rails, and Oracle Forms.&lt;/p&gt;
+
+
+	&lt;p&gt;We did some more evaluation, and our commitment to database agnosticism ended up eventually ruling out Oracle Forms (there is a similar but shorter document highlighting the pros and cons of Oracle Forms, but ultimately being dependent on Oracle alone was too much for us).  We will be deploying this software to small groups occasionally, in some cases as small as an office with a couple of clinicians.  We could provide an &lt;span class="caps"&gt;ASP&lt;/span&gt; service (and may still) to small sites, but being in bed with a single database vendor didn&amp;#8217;t sit well with us.  Since then our commitment to database agnosticism has paid off in our development process.  I&amp;#8217;ll probably write more about that later.&lt;/p&gt;
+
+
+	&lt;p&gt;Anyway, we did more trial development with Ruby on Rails and found impressive reductions in code and complexity, as well as significant gains in productivity.  Then we began researching the nooks and crannies of the platforms to find the upsides and downsides of staying or moving.  After that we&amp;#8217;d decided that &lt;strong&gt;technically&lt;/strong&gt; we were better off on Ruby on Rails.&lt;/p&gt;
+
+
+	&lt;p&gt;So the document you see came next and was essentially a succinct encapsulation of the issues, but also something of an advocacy paper for the decision we as a team were making on technical merits.  The good and the bad points are in there, as they affect us, but the underlying tone of the piece is, &amp;#8220;we&amp;#8217;re advising you on how we want to proceed&amp;#8221;.&lt;/p&gt;
+
+
+	&lt;p&gt;That said, I&amp;#8217;m not aware of any Java pros&amp;#8212;&lt;em&gt;for us&lt;/em&gt;&amp;#8212;that I&amp;#8217;m leaving out.  We don&amp;#8217;t anticipate the need for heavy-duty messaging servers, i18n to 12 different languages, or Swing front-ends for desktop applications, etc.  Those are all big Java upsides, they just don&amp;#8217;t figure into our decision.&lt;/p&gt;
+
+
+	&lt;p&gt;As far as what keeps me up at night re: this transition.  Now the things that keep me preoccupied are less technical concerns&amp;#8212;how do we keep the pipe full for the developers as we try to gather requirements from our customers, many of whom are very difficult to reach in a timely manner; how do we make sure the team communicates effectively when our facility gives everyone his own office; how do we model measurements in such a way that evidence-based treatment, billing, and clinical guidance are supported efficiently; how do we incorporate prescription history without the pitfalls other medical records have fallen into, etc.&lt;/p&gt;
+
+
+	&lt;p&gt;Now that we&amp;#8217;ve switched platforms, our developers are mostly up to speed with developing in this environment.  One technical hurdle was introducing an automated testing methodology in an organization which to my knowledge had never written a unit test (I&amp;#8217;m not even sure &lt;em&gt;any&lt;/em&gt; sort of automated testing has darkened the doors here).  Now we&amp;#8217;re running continuous integration with unit and functional tests, and talking about more types of tests (smoke tests, converted data tests, etc.); and there&amp;#8217;s a little bit of &lt;span class="caps"&gt;TDD&lt;/span&gt; going on as well already.&lt;/p&gt;
+
+
+	&lt;p&gt;Another concern I have is data conversion&amp;#8212;we&amp;#8217;ve already started the data conversion process from our huge old nasty-ass legacy system.  This promises to expend a significant fraction of the overall project effort.  Bringing other organizations online to this system means that they&amp;#8217;re going to be undertaking similar data conversion projects, but they&amp;#8217;ll be starting later (much later in some cases) than we are, with little knowledge of our domain model.  We will have to begin working with each organization as early as possible in order to get a handle on the potential risks and delays that are going to come with their data conversion.  That one keeps me a bit worried.&lt;/p&gt;
+
+
+	&lt;p&gt;Anyway, as you can see, the least of our worries, now that we appear to be moving forward quite well with the new technology stack, are related to the technology itself.  The technology is working for us, and I don&amp;#8217;t see anything yet on the horizon that looks like a potential problem.  Now we&amp;#8217;re working where we should be&amp;#8212;in the business and personal domain.&lt;/p&gt;
+
+
+	&lt;p&gt;Best,
+Rick&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <author>
+      <name>Dan</name>
+    </author>
+    <id>urn:uuid:33901227-cf84-4cc5-a7b1-38a76989d4fd</id>
+    <published>2005-11-23T16:30:33-06:00</published>
+    <updated>2006-08-13T18:19:51-05:00</updated>
+    <title type="html">Comment on Evaluation: moving from Java to Ruby on Rails by Dan</title>
+    <link href="http://rewrite.rickbradley.com/articles/2005/11/16/evaluation-moving-from-java-to-ruby-on-rails#comment-12" rel="alternate" type="text/html"/>
+    <content type="html">&lt;p&gt;As I&amp;#8217;m also a Java developer interested in the possibilities of Ruby and Rails, and someone in the position of making technology recommendations to my employer, I found your analysis very useful and interesting.&lt;/p&gt;
+
+
+	&lt;p&gt;As I read it, it comes across a bit as &amp;#8220;I want to do Rails, and here&amp;#8217;s my justification for that decision&amp;#8221;, and less as a comparative analysis. Perhaps the former was your intent, but I&amp;#8217;m wondering if you&amp;#8217;ve written anything (or would be willing to write anything) addressing the specific pros of Java you&amp;#8217;ve identified that you might be sacrificing by the switch.&lt;/p&gt;
+
+
+	&lt;p&gt;In other words, apart from the risk of working with a new technology using developers that have minimal experience with technology, what things really keep you up at night when you think about making this transition?&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <author>
+      <name>Rick Bradley</name>
+    </author>
+    <id>urn:uuid:34fae8b4-6bd2-4e87-889f-f3083370578b</id>
+    <published>2005-11-23T15:01:42-06:00</published>
+    <updated>2006-08-13T18:19:51-05:00</updated>
+    <title type="html">Comment on Evaluation: moving from Java to Ruby on Rails by Rick Bradley</title>
+    <link href="http://rewrite.rickbradley.com/articles/2005/11/16/evaluation-moving-from-java-to-ruby-on-rails#comment-11" rel="alternate" type="text/html"/>
+    <content type="html">&lt;p&gt;JohnW&amp;#8212;thanks!&lt;/p&gt;
+
+
+	&lt;p&gt;Raccoon,
+On the one hand it may be closer to say that we compared Ruby on Rails to Java/JBoss, since that&amp;#8217;s the platform we came from (and there are numerous mentions of JBoss in the article, actually)&amp;#8212;though that, perhaps, could be made more clear.&lt;/p&gt;
+
+
+	&lt;p&gt;There was indeed a much longer process prior to this where Java and JBoss were selected.  I was involved in the selection of Java as a(n unpaid) consultant before I took a position inside the organization.  I&amp;#8217;m familiar with the reasoning which led to the selection of JBoss, though I wasn&amp;#8217;t involved in that selection.  Were the parameters of the project to force Java at this stage I would probably still agree with the selection of JBoss for a framework/app-server/what-have-you.&lt;/p&gt;
+
+
+	&lt;p&gt;I&amp;#8217;ve documented elsewhere the reasons why Java was chosen initially, and at that date, given the parameters (including some imposed from the outside) I can see no other choice.  Over a year later, however, with parameters changed, the case for Java is much less compelling.&lt;/p&gt;
+
+
+	&lt;p&gt;You seem to think I wrote this article to sway public opinion, when the reality is that I wrote this article to validate my case with myself, and as part of a much wider review conducted inside our organization.  This document is one piece of a larger puzzle, but a succinct  summary of our overall &lt;em&gt;technical&lt;/em&gt; thinking.&lt;/p&gt;
+
+
+	&lt;p&gt;In reality, I&amp;#8217;ve bet my reputation on the things I wrote in that document being true&amp;#8212;that our particular team, in our particular organization, given our particular mandate and restrictions, can create an application that suits the needs of our user base better and faster by using Ruby on Rails than we can using Anything on Java.&lt;/p&gt;
+
+
+	&lt;p&gt;I could be wrong.  Time will tell.  But, the document here is an artifact of my process of convincing myself that the risk of getting to where we need to be is &lt;strong&gt;lower&lt;/strong&gt; for us going this path than the (Java) path we were on.  Given the lack of succinct useful analysis on this topic I figured someone else might gain some insight from reading that artifact.&lt;/p&gt;
+
+
+	&lt;p&gt;Thanks,
+Rick&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <author>
+      <name>Raccoon</name>
+    </author>
+    <id>urn:uuid:efffd8fd-5336-4be7-a85e-768e1281ffa3</id>
+    <published>2005-11-23T12:36:05-06:00</published>
+    <updated>2006-08-13T18:19:51-05:00</updated>
+    <title type="html">Comment on Evaluation: moving from Java to Ruby on Rails by Raccoon</title>
+    <link href="http://rewrite.rickbradley.com/articles/2005/11/16/evaluation-moving-from-java-to-ruby-on-rails#comment-10" rel="alternate" type="text/html"/>
+    <content type="html">&lt;p&gt;Why didn&amp;#8217;t you look at some Web Frameworks for Java like WebObjects? Isn&amp;#8217;t it a bit strange to compare a programming language to a Web Framework? If you wanted to compare Java to something why didn&amp;#8217;t you compare it to Ruby and not Rails? Of course these questions suppose that you wanted a fair comparison.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <author>
+      <name>JohnW</name>
+    </author>
+    <id>urn:uuid:4b1831fa-eb77-483b-b892-80c23b620163</id>
+    <published>2005-11-23T10:33:16-06:00</published>
+    <updated>2006-08-13T18:19:51-05:00</updated>
+    <title type="html">Comment on Evaluation: moving from Java to Ruby on Rails by JohnW</title>
+    <link href="http://rewrite.rickbradley.com/articles/2005/11/16/evaluation-moving-from-java-to-ruby-on-rails#comment-8" rel="alternate" type="text/html"/>
+    <content type="html">&lt;p&gt;Rick, you never fail to impress. Nice work.&lt;/p&gt;</content>
+  </entry>
+</feed>

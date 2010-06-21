@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="/stylesheets/rss.css"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Following the rewrite: Tag java</title>
+    <link>http://rewrite.rickbradley.com/articles/tag/java?tag=java</link>
+    <language>en-us</language>
+    <ttl>40</ttl>
+    <description>A journey on Rails</description>
+    <item>
+      <title>Evaluation: moving from Java to Ruby on Rails</title>
+      <description>&lt;p&gt;In September (or so) we went through the process of trying to decide whether we wanted to keep plowing through the JBoss Java stack we were building with or to pursue an alternate technology.  We did some test prototyping of part of our first component (of 6) in Ruby on Rails and then a test re-implementation of the full component in Ruby on Rails.&lt;/p&gt;
+
+
+	&lt;p&gt;The productivity increase (and code footprint decrease) was basically staggering.  We undertook a full analysis of the consequences of shifting our development from our Java stack to a Ruby on Rails platform.  Ultimately we decided to shift from Java to Ruby on Rails.&lt;/p&gt;
+
+
+	&lt;p&gt;The summary document of the issues (edited to protect the guilty :-) can be found on this site at &lt;a href="http://rewrite.rickbradley.com/pages/moving_to_rails"&gt;Evaluation: moving from Java to Ruby on Rails for the CenterNet rewrite.&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Nov 2005 10:32:00 -0600</pubDate>
+      <guid isPermaLink="false">urn:uuid:390ceba0-d8ba-4965-b64d-74c5e3bfed41</guid>
+      <author>rick</author>
+      <link>http://rewrite.rickbradley.com/articles/2005/11/16/evaluation-moving-from-java-to-ruby-on-rails</link>
+      <category>java</category>
+      <category>ruby on rails</category>
+      <category>java</category>
+      <category>ruby</category>
+      <category>rails</category>
+      <category>switch</category>
+      <category>rick</category>
+    </item>
+  </channel>
+</rss>

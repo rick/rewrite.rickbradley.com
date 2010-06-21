@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <title>Following the rewrite: Tag greg</title>
+  <subtitle type="html">A journey on Rails</subtitle>
+  <id>tag:rewrite.rickbradley.com,2005:Typo</id>
+  <generator uri="http://www.typosphere.org" version="4.0">Typo</generator>
+  <link href="http://rewrite.rickbradley.com/xml/atom/tag/greg/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="http://rewrite.rickbradley.com/articles/tag/greg?tag=greg" rel="alternate" type="text/html"/>
+</feed>
